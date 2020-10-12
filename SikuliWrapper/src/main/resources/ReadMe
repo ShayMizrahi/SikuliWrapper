@@ -1,0 +1,6 @@
+How to run the server:
+
+1.) JAVA_HOME should be set to Java 8.
+2.) set CLASSPATH=<path_to_jar>\SikuliWrapper.jar
+3.) Run: rmiregistry
+4.) Run: java -jar SikuliWrapper.jar
